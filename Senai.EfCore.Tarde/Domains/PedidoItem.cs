@@ -7,10 +7,9 @@ using System.Threading.Tasks;
 
 namespace Senai.EfCore.Tarde.Domains
 {
-    public class PedidoItem
+    public class PedidoItem : BaseDomain
     {
-        [Key]
-        public Guid Id { get; set; }
+   
         public Guid IdPedido { get; set; }
 
         [ForeignKey("IdPedido")]
@@ -23,11 +22,5 @@ namespace Senai.EfCore.Tarde.Domains
         [Required]
         public int Quantidade { get; set; }
 
-
-
-        public PedidoItem()
-        {
-            Id = Guid.NewGuid();
-        }
     }  
 }
