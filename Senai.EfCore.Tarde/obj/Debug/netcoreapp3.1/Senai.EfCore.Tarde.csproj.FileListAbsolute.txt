@@ -56,8 +56,15 @@ C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\bin\D
 C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\obj\Debug\netcoreapp3.1\Senai.EfCore.Tarde.csproj.CoreCompileInputs.cache
-C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\obj\Debug\netcoreapp3.1\Senai.EfCore.Tarde.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\obj\Debug\netcoreapp3.1\Senai.EfCore.Tarde.dll
 C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\obj\Debug\netcoreapp3.1\Senai.EfCore.Tarde.pdb
 C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\obj\Debug\netcoreapp3.1\Senai.EfCore.Tarde.genruntimeconfig.cache
+C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\obj\Debug\netcoreapp3.1\Senai.EfCore.Tarde.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\obj\Debug\netcoreapp3.1\Senai.EfCore.Tarde.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\obj\Debug\netcoreapp3.1\Senai.EfCore.Tarde.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\bin\Debug\netcoreapp3.1\Senai.EfCore.Tarde.xml
+C:\Users\fic\Desktop\2Sprint 2DT\API\Senai.EfCore.Tarde\Senai.EfCore.Tarde\obj\Debug\netcoreapp3.1\Senai.EfCore.Tarde.xml

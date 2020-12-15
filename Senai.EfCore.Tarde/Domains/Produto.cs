@@ -15,6 +15,7 @@ namespace Senai.EfCore.Tarde.Domains
      
         public string Nome { get; set; }
         public float Preco { get; set; }
-
+        public object UrlImagem { get; internal set; }
+        public object Imagem { get; internal set; }
     } 
 }

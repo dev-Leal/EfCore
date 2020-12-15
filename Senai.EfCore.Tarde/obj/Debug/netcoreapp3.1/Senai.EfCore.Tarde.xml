@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Senai.EfCore.Tarde</name>
+    </assembly>
+    <members>
+        <member name="M:Senai.EfCore.Tarde.Controllers.ProdutosController.Get">
+            <summary>
+            Mostra todos os produtos cadastrado 
+            </summary>
+            <returns>Lista com todos os produtos</returns>
+        </member>
+        <member name="M:Senai.EfCore.Tarde.Controllers.ProdutosController.Get(System.Guid)">
+            <summary>
+            Mostra um único produto
+            </summary>
+            <param name="id">ID do produto</param>
+            <returns>Um produto</returns>
+        </member>
+        <member name="M:Senai.EfCore.Tarde.Controllers.ProdutosController.Post(Senai.EfCore.Tarde.Domains.Produto)">
+            <summary>
+            Cadastra um novo produto
+            </summary>
+            <param name="produto">Objeto completo de Produto</param>
+            <returns>Produto cadastrado</returns>
+        </member>
+        <member name="M:Senai.EfCore.Tarde.Controllers.ProdutosController.Put(System.Guid,Senai.EfCore.Tarde.Domains.Produto)">
+            <summary>
+            Altera determinado produto
+            </summary>
+            <param name="id">ID do produto</param>
+            <param name="produto">Objeto Produto com as alterações</param>
+            <returns>Info do produto alterado</returns>
+        </member>
+        <member name="M:Senai.EfCore.Tarde.Controllers.ProdutosController.Delete(System.Guid)">
+            <summary>
+            Exclui um produto
+            </summary>
+            <param name="id">ID do produto</param>
+            <returns>ID excluído</returns>
+        </member>
+        <member name="T:Senai.EfCore.Tarde.Domains.Produto">
+            <summary>
+            Define a classe produto
+            </summary>
+        </member>
+        <member name="M:Senai.EfCore.Tarde.Repositories.ProdutoRepository.Listar">
+            <summary>
+            Lista todos os produtos cadastrados 
+            </summary>
+            <returns>Retorna uma Lista de Produtos</returns>
+        </member>
+        <member name="M:Senai.EfCore.Tarde.Repositories.ProdutoRepository.BuscarPorId(System.Guid)">
+            <summary>
+            Busca um produto pelo seu Id
+            </summary>
+            <param name="id"> Id do Produto</param>
+            <returns>Lista de produto</returns>
+        </member>
+        <member name="M:Senai.EfCore.Tarde.Repositories.ProdutoRepository.BuscarPorNome(System.String)">
+            <summary>
+            Busca produtos pelo
+            </summary>
+            <param name="nome">Nome do Produto</param>
+            <returns>Retorna um produto</returns>
+        </member>
+        <member name="M:Senai.EfCore.Tarde.Repositories.ProdutoRepository.Editar(Senai.EfCore.Tarde.Domains.Produto)">
+            <summary>
+            Edita um produto 
+            </summary>
+            <param name="produto">Produto a ser editado</param>
+        </member>
+        <member name="M:Senai.EfCore.Tarde.Repositories.ProdutoRepository.Adicionar(Senai.EfCore.Tarde.Domains.Produto)">
+            <summary>
+            Adiciona um novo pruduto
+            </summary>
+            <param name="produto">Objeto do tipo Produto</param>
+        </member>
+        <member name="M:Senai.EfCore.Tarde.Repositories.ProdutoRepository.Remover(System.Guid)">
+            <summary>
+            Remove um produto
+            </summary>
+            <param name="id">Id do produto</param>
+        </member>
+    </members>
+</doc>
